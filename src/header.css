@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  .nav{
+      background-color: lightseagreen;
+      color: white;
+      padding-left: 300px;
+      height: 70px;
+      padding-top: 30px;
+    }
+    ul{
+      list-style-type: none;
+    }
+    li{
+      display: inline;
+      padding-left: 80px;
+    }

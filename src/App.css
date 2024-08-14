@@ -1,0 +1,54 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+  /* .App{
+    background-color: grey;
+    margin-top: 10px;
+  } */
+  .App-header {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    color: black;
+  }
+  table  {
+    margin-top: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    border-collapse: collapse;
+    box-shadow: 5px 10px 10px 12px grey ;
+    background-color: lightseagreen;
+    height: 400px;
+  } 
+  td{
+    border: 1px solid white;
+    padding: 10px;
+  }
+  th{
+    border: 1px solid white;
+    padding: 10px;
+    background-color: palevioletred
+  }
+  form{
+    margin-top: 70px;
+    height: 500px;
+    font-size: 20px;
+  }
+  .form{
+    border: 2px solid black;
+    margin-top: 20px;
+  }
+input{
+  color: black;
+  margin-left: 10px;
+}
+button{
+  margin-left: 130px;
+}
+button:hover{
+  background-color: green;
+}
